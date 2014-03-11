@@ -1,0 +1,50 @@
+.contentblock.green{
+	background-color: #f1c40f;
+}
+.pricetable .priceInfo.active{
+	background-color: #f1c40f;
+}
+.btn{
+	color: #f1c40f;
+	border: 1px solid #f1c40f;
+}
+.btn:hover{
+	background-color: #f1c40f;
+	border:1px solid #f1c40f; 
+}
+.btn.solid{
+	background-color: #f1c40f;
+	border:1px solid #f1c40f; 
+}
+.btn.solid:hover{
+	border: 1px solid #f1c40f;
+	color: #f1c40f;
+}
+
+.btn.white:hover{
+	color:#f1c40f;
+}
+.serviceBlockCircled i[class*="fa-"]{
+	background-color: #f1c40f;
+}
+.progress-bar{
+	background-color: #f1c40f;
+}
+.pagination > li > a, .pagination > li > span{
+	color: #f1c40f;
+	border: 1px solid #f1c40f;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus{
+	background-color: #f1c40f;
+	border: 1px solid #f1c40f;
+}
+.pagination > li > a i{
+	color: #f1c40f;	
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+	background-color: #f1c40f;
+	border: 1px solid #f1c40f;
+}
+
+
+

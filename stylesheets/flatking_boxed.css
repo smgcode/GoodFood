@@ -1,0 +1,13 @@
+body{
+	max-width:1300px;
+	margin:0 auto;
+	background-color: #DDDDDD;
+}
+
+@media only screen and (max-width: 1200px) {
+	body{
+		max-width:1060px;
+		margin:0 auto;
+		background-color: #DDDDDD;
+	}
+}
